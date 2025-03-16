@@ -1,0 +1,13 @@
+# API Keys & Credentials
+.env
+.streamlit/secrets.toml
+
+# Data files (optional, for privacy)
+data/comments.csv
+data/sentiment_analysis.csv
+
+# Python Cache & System Files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
