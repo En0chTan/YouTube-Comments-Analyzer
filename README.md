@@ -3,11 +3,14 @@
 This is a YouTube Comment Sentiment Analyzer built with Streamlit, Python, and NLP techniques. The app fetches YouTube comments, processes them, and visualizes sentiment distributions using charts and word clouds.
 
 ## Features
-✅ Fetch YouTube Comments using YouTube Data API
-✅ Sentiment Analysis (Positive, Negative, Neutral) with NLP
-✅ Data Visualization (Pie & Bar Charts)
-✅ Word Cloud Generation for Sentiment Categories
-✅ Streamlit Web UI for easy interaction
+<ul>
+    ✅ Fetch YouTube Comments using YouTube Data API
+    ✅ Sentiment Analysis (Positive, Negative, Neutral) with NLP
+    ✅ Data Visualization (Pie & Bar Charts)
+    ✅ Word Cloud Generation for Sentiment Categories
+    ✅ Streamlit Web UI for easy interaction
+</ul>
+
 
 ## Installation & Setup
 1️⃣ Clone the Repository
