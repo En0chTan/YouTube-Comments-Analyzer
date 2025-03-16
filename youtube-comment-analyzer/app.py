@@ -6,7 +6,7 @@ import os
 from wordcloud import WordCloud
 
 # Load Data
-DATA_PATH = os.path.join(os.getcwd(), "data", "sentiment_analysis.csv")
+DATA_PATH = "data/sentiment_analysis.csv"
 
 if not os.path.exists(DATA_PATH):
     st.error("CSV file not found! Please ensure `data/sentiment_analysis.csv` exists.")
