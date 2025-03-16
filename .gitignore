@@ -4,7 +4,7 @@
 
 # Data files (optional, for privacy)
 data/comments.csv
-data/sentiment_analysis.csv
+
 
 # Python Cache & System Files
 __pycache__/
