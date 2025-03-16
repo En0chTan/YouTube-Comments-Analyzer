@@ -32,12 +32,15 @@ pip install -r requirements.txt
 ```
 
 4️. Add YouTube API Key
+<br></br>
 I. Create a .streamlit/secrets.toml file
+<br></br>
 II. Add the following content:
     ```sh
     [youtube]
     api_key = "YOUR_YOUTUBE_API_KEY"
     ```
+<br></br>
 
 5️. Run the App Locally
 ```sh
