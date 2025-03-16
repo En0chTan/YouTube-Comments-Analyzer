@@ -1,4 +1,4 @@
-# YouTube-Comments-Analyzer
+# YouTube Comments Analyzer
 
 This is a YouTube Comment Sentiment Analyzer built with Streamlit, Python, and NLP techniques. The app fetches YouTube comments, processes them, and visualizes sentiment distributions using charts and word clouds.
 
