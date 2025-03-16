@@ -4,42 +4,42 @@ This is a YouTube Comment Sentiment Analyzer built with Streamlit, Python, and N
 
 ## Features
 <ul>
-    ✅ Fetch YouTube Comments using YouTube Data API
-    ✅ Sentiment Analysis (Positive, Negative, Neutral) with NLP
-    ✅ Data Visualization (Pie & Bar Charts)
-    ✅ Word Cloud Generation for Sentiment Categories
-    ✅ Streamlit Web UI for easy interaction
+    <li>Fetch YouTube Comments using YouTube Data API</li>
+    <li>Sentiment Analysis (Positive, Negative, Neutral) with NLP</li>
+    <li>Data Visualization (Pie & Bar Charts)</li>
+    <li>Word Cloud Generation for Sentiment Categories</li>
+    <li>Streamlit Web UI for easy interaction</li>
 </ul>
 
 
 ## Installation & Setup
-1️⃣ Clone the Repository
+1️1. Clone the Repository
 ```sh
 git clone https://github.com/yourusername/youtube-comment-analyzer.git
 cd youtube-comment-analyzer
 ```
 
-2️⃣ Create a Virtual Environment (Optional)
+2️. Create a Virtual Environment (Optional)
 ```sh
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
 
-3️⃣ Install Dependencies
+3️. Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-4️⃣ Add YouTube API Key
-1. Create a .streamlit/secrets.toml file
-2. Add the following content:
+4️. Add YouTube API Key
+I. Create a .streamlit/secrets.toml file
+II. Add the following content:
     ```sh
     [youtube]
     api_key = "YOUR_YOUTUBE_API_KEY"
     ```
 
-5️⃣ Run the App Locally
+5️. Run the App Locally
 ```sh
 streamlit run app.py
 ```
