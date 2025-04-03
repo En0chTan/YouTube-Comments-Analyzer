@@ -13,7 +13,7 @@ This is a YouTube Comment Sentiment Analyzer built with Streamlit, Python, and N
 
 
 ## Installation & Setup
-1️1. Clone the Repository
+1. Clone the Repository
 ```sh
 git clone https://github.com/yourusername/youtube-comment-analyzer.git
 cd youtube-comment-analyzer
